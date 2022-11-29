@@ -6,8 +6,3 @@ public extension Int {
         return self + 1
     }
 }
-
-public struct sex {
-    
-    let kinky: Bool
-}
